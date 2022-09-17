@@ -9,12 +9,26 @@ I have no experience with Linux system. But the information was interesting.
 </p>
 </details>
 
+<details><summary>quize_2</summary>
+<p>
+
 https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_2.png
+</p>
+</details>
+
+<details><summary>quize_3</summary>
+<p>
 
 https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_3.png
+</p>
+</details>
 
-https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz%204.png
+<details><summary>quiz_4</summary>
+<p>
 
+https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_4.png
+</p>
+</details>
 
 
 ## Git Collaboration
