@@ -9,24 +9,24 @@ I have no experience with Linux system. But the information was interesting.
 </p>
 </details>
 
-<details><summary>quize_2</summary>
+<details><summary>quiz_2</summary>
 <p>
 
-https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_2.png
+![quiz_2](https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_2.png)
 </p>
 </details>
 
-<details><summary>quize_3</summary>
+<details><summary>quiz_3</summary>
 <p>
 
-https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_3.png
+![quiz_3](https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_3.png)
 </p>
 </details>
 
 <details><summary>quiz_4</summary>
 <p>
 
-https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_4.png
+![quiz_4](https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_4.png)
 </p>
 </details>
 
