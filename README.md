@@ -37,14 +37,14 @@ Very interesting and entertaining lessons, thanks to the visualization it was mo
 
 <details><summary>Screenshot_1</summary>
 <p>
-![Screenshot_1](https://github.com/PAI83/kottans-frontend/blob/main/task_git_collaboration/Screenshot_1.png)
 
+![Screenshot_1](https://github.com/PAI83/kottans-frontend/blob/main/task_git_collaboration/Screenshot_1.png)
 </p>
 </details>
 
 <details><summary>Screenshot_2</summary>
 <p>
-![Screenshot_2](https://github.com/PAI83/kottans-frontend/blob/main/task_git_collaboration/push%20%26%20pull.png)
 
+![Screenshot_2](https://github.com/PAI83/kottans-frontend/blob/main/task_git_collaboration/push%20%26%20pull.png)
 </p>
 </details>
