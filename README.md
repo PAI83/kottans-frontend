@@ -26,7 +26,7 @@ I have no experience with Linux system. But the information was interesting.
 <details><summary>quiz_4</summary>
 <p>
 
-![quiz_4](https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz_4.png)
+![quiz_4](https://github.com/PAI83/kottans-frontend/blob/main/task_linux_cli/quiz%204.png)
 </p>
 </details>
 
